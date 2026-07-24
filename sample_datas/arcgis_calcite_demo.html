@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <title>ArcGIS & Calcite - Polygon Visualizer</title>
+
+  <!-- Calcite Components v3.3.3 -->
+  <script type="module" src="https://js.arcgis.com/calcite-components/3.3.3/calcite.esm.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://js.arcgis.com/calcite-components/3.3.3/calcite.css" />
+
+  <!-- ArcGIS Maps SDK for JavaScript 4.34 -->
+  <link rel="stylesheet" href="https://js.arcgis.com/4.34/esri/themes/light/main.css" />
+  <script src="https://js.arcgis.com/4.34/"></script>
+
+  <style>
+    html,
+    body {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+      display: flex;
+    }
+    calcite-shell {
+      height: 100vh;
+      width: 100vw;
+    }
+    #viewDiv {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+    .attribute-list {
+      padding: 1.25rem;
+    }
+    .attribute-item {
+      margin-bottom: 0.85rem;
+      border-bottom: 1px solid var(--calcite-color-border-3);
+      padding-bottom: 0.5rem;
+    }
+    .attribute-label {
+      font-size: 0.75rem;
+      color: var(--calcite-color-text-2);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.15rem;
+    }
+    .attribute-value {
+      font-size: 0.95rem;
+      color: var(--calcite-color-text-1);
+      font-weight: 600;
+    }
+    calcite-block {
+      margin: 1.25rem;
+    }
+  </style>
+</head>
+<body>
+  <calcite-shell>
+    <calcite-navigation slot="header">
+      <calcite-navigation-logo 
+        slot="logo" 
+        heading="Retail GIS Portal" 
+        description="ArcGIS Maps SDK & Calcite Components Demo"
+        icon="map">
+      </calcite-navigation-logo>
+    </calcite-navigation>
+
+    <calcite-shell-panel slot="panel-start" position="start" display-mode="float" width-scale="m">
+      <calcite-panel heading="Parcel Details">
+        <calcite-action slot="header-actions" text="Zoom to" icon="zoom-to-fit" id="btnZoom"></calcite-action>
+        
+        <div class="attribute-list">
+          <div class="attribute-item">
+            <div class="attribute-label">Chủ sở hữu / Owner</div>
+            <div class="attribute-value" id="valOwner">Chưa cập nhật</div>
+          </div>
+          <div class="attribute-item">
+            <div class="attribute-label">Địa chỉ / Address</div>
+            <div class="attribute-value" id="valAddress">Chưa cập nhật</div>
+          </div>
+          <div class="attribute-item">
+            <div class="attribute-label">Diện tích / Area</div>
+            <div class="attribute-value" id="valArea">0 m²</div>
+          </div>
+          <div class="attribute-item">
+            <div class="attribute-label">Số tờ / Số thửa (Sheet/Parcel)</div>
+            <div class="attribute-value" id="valParcel">Tờ: - / Thửa: -</div>
+          </div>
+          <div class="attribute-item">
+            <div class="attribute-label">Xã/Phường</div>
+            <div class="attribute-value" id="valWards">Chưa cập nhật</div>
+          </div>
+          <div class="attribute-item">
+            <div class="attribute-label">Khu vực / Tỉnh</div>
+            <div class="attribute-value" id="valProvince">Chưa cập nhật</div>
+          </div>
+          <div class="attribute-item">
+            <div class="attribute-label">Centroid coordinates</div>
+            <div class="attribute-value" id="valCentroid" style="font-family: monospace; font-size: 0.85rem;">-</div>
+          </div>
+        </div>
+
+        <calcite-block heading="Actions & Geometry" open>
+          <calcite-button id="btnCentroidMarker" icon-start="pin" width="full" appearance="outline">
+            Place Centroid Marker
+          </calcite-button>
+          <calcite-button id="btnGeoJSON" icon-start="code" width="full" appearance="outline" style="margin-top: 8px;">
+            Copy GeoJSON Polygon
+          </calcite-button>
+        </calcite-block>
+      </calcite-panel>
+    </calcite-shell-panel>
+
+    <div id="viewDiv"></div>
+  </calcite-shell>
+
+  <script>
+    require([
+      "esri/Map",
+      "esri/views/MapView",
+      "esri/geometry/Polygon",
+      "esri/Graphic",
+      "esri/layers/GraphicsLayer"
+    ], function(Map, MapView, Polygon, Graphic, GraphicsLayer) {
+
+      // 1. Raw API Response from the user request
+      const apiResponse = {
+        "objectIdFieldName": "OBJECTID",
+        "globalIdFieldName": "",
+        "geometryType": "esriGeometryPolygon",
+        "spatialReference": { "wkid": 4326, "latestWkid": 4326 },
+        "features": [
+          {
+            "attributes": {
+              "OBJECTID": 2180772,
+              "DienTich": 2444.0,
+              "TenNha": null,
+              "TenChuSoHuu": null,
+              "MaDoiTuong": null,
+              "KyHieuLoaiDat": null,
+              "KhuPho": null,
+              "Ap": null,
+              "SoNha": " ",
+              "DiaChi": null,
+              "NgayCapNhat": null,
+              "NguoiCapNhat": null,
+              "DonViQuanLy": null,
+              "DonViCapNhat": null,
+              "GhiChu": null,
+              "GiaiDoanQuyHoach": null,
+              "MaPhuongXa": "27052",
+              "MaQuanHuyen": "768",
+              "SoThuaMoi": null,
+              "SoNhaMoi": null,
+              "TenConDuong": " ",
+              "ThongTinQuyHoach": null,
+              "DaCapGCN": null,
+              "SoHieuToBanDoCu": null,
+              "SoThuTuThuaCu": null,
+              "DienTichPhapLy": null,
+              "DMMucDichSuDungDat": null,
+              "SoTo": "31",
+              "SoThua": "15",
+              "CCCD_CMND": null,
+              "NamSinh": null,
+              "MaXaMoi": "27058",
+              "TenXaMoi": "Phường Cầu Kiệu",
+              "KV": "79",
+              "TenTinhCu": "TP. Hồ Chí Minh"
+            },
+            "geometry": {
+              "rings": [
+                [
+                  [106.68870761094549, 10.800881519128904],
+                  [106.68869583803337, 10.800918258425424],
+                  [106.68872456045585, 10.800921696931713],
+                  [106.68872673951915, 10.800916718159552],
+                  [106.68875465837721, 10.800926396898634],
+                  [106.68873016560805, 10.800989391639897],
+                  [106.68876488204296, 10.801009084453613],
+                  [106.68874833959012, 10.801070518208242],
+                  [106.68878205078104, 10.801090394876953],
+                  [106.68876921392612, 10.801108424018977],
+                  [106.6887094550188, 10.801092513757018],
+                  [106.68871916438435, 10.801127379773348],
+                  [106.68872575250903, 10.801158277541042],
+                  [106.68873610054035, 10.801192689603022],
+                  [106.68874976505057, 10.801235047044178],
+                  [106.68875223303145, 10.80123476834205],
+                  [106.68884355983444, 10.801228162831727],
+                  [106.68892575548094, 10.801225653152624],
+                  [106.68893069088026, 10.801224914941663],
+                  [106.68900337333092, 10.801221258895769],
+                  [106.68902412383315, 10.801219297413459],
+                  [106.68902421246206, 10.801218393115976],
+                  [106.68909253398149, 10.801223790577222],
+                  [106.68909229141167, 10.801234006833651],
+                  [106.68909558261392, 10.801233816031163],
+                  [106.68917358447275, 10.80123529674894],
+                  [106.68920889579353, 10.801240432845809],
+                  [106.68920871572728, 10.801241337421075],
+                  [106.68923799467684, 10.801247305465083],
+                  [106.689243574636, 10.80124801173624],
+                  [106.68925299920113, 10.801250062369956],
+                  [106.68926850242636, 10.801148492899477],
+                  [106.68926879890154, 10.80109678158289],
+                  [106.68926314448917, 10.801072118789429],
+                  [106.68925236631321, 10.801017005808953],
+                  [106.68920213164276, 10.800858682255482],
+                  [106.68919837342291, 10.800855710378421],
+                  [106.68918921728415, 10.800851760467188],
+                  [106.68913688481845, 10.800842246327305],
+                  [106.68908394094333, 10.800841955124074],
+                  [106.68904188546593, 10.800843981315769],
+                  [106.68904164613086, 10.800825811073411],
+                  [106.6888690267823, 10.800831217050645],
+                  [106.68883782824642, 10.800825435602164],
+                  [106.6887564382357, 10.800822337827084],
+                  [106.68871790484512, 10.800839631360693],
+                  [106.68871948175119, 10.800846858800194],
+                  [106.68871043699194, 10.800849327137739],
+                  [106.68871638167312, 10.800879142026213],
+                  [106.68870761094549, 10.800881519128904]
+                ]
+              ]
+            }
+          }
+        ]
+      };
+
+      const feature = apiResponse.features[0];
+      const attributes = feature.attributes;
+
+      // Dynamic populate panel information
+      document.getElementById("valOwner").innerText = attributes.TenChuSoHuu || "Chưa cập nhật";
+      
+      const fullAddress = [attributes.SoNha, attributes.TenConDuong].filter(Boolean).join(" ").trim();
+      document.getElementById("valAddress").innerText = fullAddress || "Chưa cập nhật";
+      
+      document.getElementById("valArea").innerText = attributes.DienTich.toLocaleString("vi-VN") + " m²";
+      document.getElementById("valParcel").innerText = "Tờ: " + (attributes.SoTo || "-") + " / Thửa: " + (attributes.SoThua || "-");
+      document.getElementById("valWards").innerText = attributes.TenXaMoi || "Chưa cập nhật";
+      document.getElementById("valProvince").innerText = attributes.TenTinhCu || "Chưa cập nhật";
+
+      // 2. Setup ArcGIS Map & MapView
+      const map = new Map({
+        basemap: "osm" // OpenStreetMap background
+      });
+
+      const view = new MapView({
+        container: "viewDiv",
+        map: map,
+        center: [106.689, 10.801], // Initial center
+        zoom: 17
+      });
+
+      const graphicsLayer = new GraphicsLayer();
+      map.add(graphicsLayer);
+
+      // 3. Create the Polygon from Esri JSON
+      const polygon = Polygon.fromJSON({
+        rings: feature.geometry.rings,
+        spatialReference: apiResponse.spatialReference
+      });
+
+      // Calculate Centroid (built-in property of esri/geometry/Polygon)
+      const centroid = polygon.centroid;
+      document.getElementById("valCentroid").innerText = centroid.x.toFixed(6) + ", " + centroid.y.toFixed(6);
+
+      // 4. Create and Add Graphic
+      const polygonGraphic = new Graphic({
+        geometry: polygon,
+        symbol: {
+          type: "simple-fill",
+          color: [227, 89, 85, 0.35], // Red translucent fill
+          outline: {
+            color: [227, 89, 85, 1.0], // Red outline
+            width: 2.5
+          }
+        },
+        popupTemplate: {
+          title: "Thông tin thửa đất (Parcel {SoThua})",
+          content: `
+            <div style="font-family: sans-serif; line-height: 1.5;">
+              <b>Tờ bản đồ:</b> {SoTo}<br/>
+              <b>Số thửa:</b> {SoThua}<br/>
+              <b>Diện tích:</b> {DienTich} m²<br/>
+              <b>Địa bàn:</b> {TenXaMoi}, {TenTinhCu}
+            </div>
+          `
+        },
+        attributes: attributes
+      });
+
+      graphicsLayer.add(polygonGraphic);
+
+      // 5. Button Action: Zoom to Parcel
+      function zoomToParcel() {
+        view.goTo({
+          target: polygon,
+          zoom: 18
+        }, {
+          duration: 1000
+        });
+      }
+
+      document.getElementById("btnZoom").addEventListener("click", zoomToParcel);
+
+      // 6. Action: Toggle Centroid Pin Marker
+      let centroidGraphic = null;
+      document.getElementById("btnCentroidMarker").addEventListener("click", function() {
+        if (centroidGraphic) {
+          graphicsLayer.remove(centroidGraphic);
+          centroidGraphic = null;
+          this.innerText = "Place Centroid Marker";
+          return;
+        }
+
+        centroidGraphic = new Graphic({
+          geometry: centroid,
+          symbol: {
+            type: "simple-marker",
+            style: "circle",
+            color: [255, 170, 0],
+            size: "14px",
+            outline: {
+              color: [255, 255, 255],
+              width: 2
+            }
+          }
+        });
+
+        graphicsLayer.add(centroidGraphic);
+        this.innerText = "Remove Centroid Marker";
+      });
+
+      // 7. Action: Copy GeoJSON
+      document.getElementById("btnGeoJSON").addEventListener("click", function() {
+        const geojson = {
+          type: "Feature",
+          geometry: {
+            type: "Polygon",
+            coordinates: feature.geometry.rings
+          },
+          properties: attributes
+        };
+        
+        navigator.clipboard.writeText(JSON.stringify(geojson, null, 2)).then(() => {
+          // Visual feedback on button
+          const origText = this.innerText;
+          this.innerText = "Copied!";
+          setTimeout(() => {
+            this.innerText = origText;
+          }, 1500);
+        }).catch(err => {
+          console.error("Failed to copy", err);
+        });
+      });
+
+      // Run on Load
+      view.when(function() {
+        zoomToParcel();
+      });
+
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,752 @@
+{
+  "18-20 Tôn Dật Tiên, Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Vietnam, Ho Chi Minh City, Vietnam": null,
+  "Ho Chi Minh City, Vietnam": {
+    "lat": 10.7737261,
+    "lon": 106.7166008,
+    "display": "Ho Chi Minh City, Vietnam"
+  },
+  "96 Cao Thắng, Phường 4, Quận 3, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "D0102 KCC New Sài Gòn, Hoàng Anh Gia Lai 3, Nguyễn Hữu Thọ, Huyện Nhà Bè, Tp. HCM, Ho Chi Minh City, Vietnam": null,
+  "205 Lạc Long Quân, phường 3, Quận 11, TP.HCM, Ho Chi Minh City, Vietnam": {
+    "lat": 10.7635526,
+    "lon": 106.6418699,
+    "display": "Cao ốc RES 11, 205, Lac Long Quan, Khu phố 12, Phường Bình Thới, Thủ Đức, Ho Chi Minh City, 72015, Vietnam"
+  },
+  "Số 50 Đường số 3, Khu phố 4, Phường An Khánh, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Ho Chi Minh City, Vietnam": null,
+  "31 - 33 Phan Huy Ích, P.15, Q.Tân Bình, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "Tòa nhà Tropic Garden, Số 49 Đường số 66, P.Thảo Điền, Quận 2, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "21-23 Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 01, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "C2.00.01 Tầng Trệt, Khu Thương Mại Him Lam Chợ Lớn - 491 Hậu Giang, P.11, Quận 6, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "215A Yersin, Phường Phú Cường, TP.Thủ Dầu Một, Bình Dương, Binh Duong Province, Vietnam": null,
+  "Binh Duong Province, Vietnam": {
+    "lat": 11.1826156,
+    "lon": 106.6738179,
+    "display": "Bình Dương Province, Vietnam"
+  },
+  "Tầng 1, căn S2-05- tháp A3 Sky2, Aqua Bay, Ecopark, xã Xuân Quan, huyện Văn Giang, tỉnh Hưng Yên., Hung Yen Province, Vietnam": null,
+  "Hung Yen Province, Vietnam": {
+    "lat": 20.6065846,
+    "lon": 106.2843471,
+    "display": "Hưng Yên Province, Vietnam"
+  },
+  "Hyundai Hillsmall - P.Hà Cầu - Q.Hà Đông - TP.Hà Nội. Địa chỉ: Hyundai Hillsmall - P.Hà Cầu - Q.Hà Đông - TP.Hà Nội, Ha Noi City, Vietnam": null,
+  "Ha Noi City, Vietnam": {
+    "lat": 21.0257605,
+    "lon": 105.8130654,
+    "display": "Vietnam Television, 43, Nguyen Chi Thanh Road, Ngọc Khánh, Giang Vo Ward, Hà Nội, 10067, Vietnam"
+  },
+  "Toà B - Số 1 Đại lộ Thăng Long, Nam Từ Liêm, Hà Nội, Ha Noi City, Vietnam": null,
+  "CT2-B, phố Văn Tân, Khu đô thị Tây Nam Linh Đàm, quận Hoàng Mai, Hà Nội, Ha Noi City, Vietnam": null,
+  "Sàn thương mại 01S12-12A-26 tầng 1, tòa U26 (S2.03), dự án khu đô thị Gia Lâm - Vinhomes Ocean Park, xã Đa Tốn, huyện Gia Lâm, Hà Nội -, Ha Noi City, Vietnam": null,
+  "Tầng 1, nhà HH01, số 87 Lĩnh Nam, phường Mai Động, quận Hoàng Mai, thành phố Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 1, tòa nhà The Five Residences- số 343-345 Đội Cấn, phường Liễu Giai, quận Ba Đình, Hà Nội -, Ha Noi City, Vietnam": null,
+  "349 Vũ Tông Phan, phường Khương Đình, quận Thanh Xuân, Hà Nội., Ha Noi City, Vietnam": null,
+  "Diện tích thương mại số TM-02 tại tầng 01 thuộc Nhà chung cư NO1-T1 tại Khu (đô thị) Ngoại Giao Đoàn, Phường Xuân Tảo, Quận Bắc Từ Liêm, Ha Noi City, Vietnam": null,
+  "Tầng 1 Tòa A Westbay, Khu đô thị Ecopark, Văn Giang, Hưng Yên, Hung Yen Province, Vietnam": null,
+  "Tầng 1, toà N03-T4 khu Ngoại Giao Đoàn, Xuân Tảo, Bắc Từ Liêm, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tòa nhà NH3 tổ hợp chung cư, văn phòng kết hợp dịch vụ thương mại Newtatco - Kosmo Tây Hồ, phường Xuân Tảo, quận Bắc Từ Liêm, TP. Hà Nội., Ha Noi City, Vietnam": null,
+  "Số 27 đường Cổ Linh, Phường Long Biên, Quận Long Biên, Thành Phố Hà Nội, Ha Noi City, Vietnam": null,
+  "Số 30 Tân Thắng, Phường Sơn Kỳ, Quận Tân Phú, Tp. Hồ Chí Minh, Ho Chi Minh City, Vietnam": null,
+  "Số 1 Đường Số 17A, Bình Trị Đông B, Bình Tân, Hồ Chí Minh, Ho Chi Minh City, Vietnam": {
+    "lat": 10.7424923,
+    "lon": 106.6115809,
+    "display": "ÆON MALL Bình Tân, 1, Đường số 17A, Khu phố 22, Phường An Lạc, Ho Chi Minh City, 73118, Vietnam"
+  },
+  "Số 10 đường Võ Nguyên Giáp, phường Kênh Dương, quận Lê Chân, thành phố Hải Phòng, Việt Nam, Hai Phong City, Vietnam": null,
+  "Hai Phong City, Vietnam": {
+    "lat": 20.8623278,
+    "lon": 106.6799266,
+    "display": "Hải Phòng, Vietnam"
+  },
+  "Tầng 1, Trung tâm mua sắm Aeon – Bình Dương Canary, Số 01 Đại lộ Bình Dương, Khu phố Bình Giao, Phường Thuận Giao, Thành phố Thuận An, Tỉnh Bình Dương, Binh Duong Province, Vietnam": null,
+  "Phường Dương Nội, Quận Hà Đông, Thành phố Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 20.9759595,
+    "lon": 105.7828346,
+    "display": "BIDV, 1, Tran Phu Road, Văn Quán, Ha Dong Ward, Hà Nội, 12100, Vietnam"
+  },
+  "Opal Tower, Shophouse SH06-07, 92 Nguyen Huu Canh, Saigon Pearl, Binh Thanh Dist, HCMC, Ho Chi Minh City, Vietnam": null,
+  "16 - 18 Hai Ba Trung, District.1, HCMC, Ho Chi Minh City, Vietnam": null,
+  "41A Thao Dien St., Thao Dien Wrd., Thu Duc city, Ho Chi Minh City, Vietnam": null,
+  "184 Nguyen Van Troi, Ward 8, Phu Nhuan District, Ho Chi Minh City., Ho Chi Minh City, Vietnam": null,
+  "RT-1-2-3 Ground Floor, Feliz en Vista Shopping mall, 1 Phan Van Dang, Thanh My Loi Ward, HCMC., Ho Chi Minh City, Vietnam": null,
+  "#L1 - 21/22/24, #L2-23 Estella Place, 88 Song Hanh St., An Phu Wrd., Thu Duc City, Ho Chi Minh City, Vietnam": null,
+  "51 Xuan Dieu St., Quang An Wrd., Tay Ho Dist. Hanoi, Ha Noi City, Vietnam": null,
+  "B2, Saigon Center, 65 Le Loi St., Ben Thanh Wrd., Dist. 1, HCMC, Ho Chi Minh City, Vietnam": null,
+  "Riverpark Premier, 64-70 Nguyen Duc Canh St., Tan Phong Wrd., Dist. 7., HCMC, Ho Chi Minh City, Vietnam": null,
+  "Shophouse No. SH3, SH4, SH5, SH6, Level 1, Q2 building, 21 Vo Truong Toan, Thao Dien Ward, District 2, HCMC, Ho Chi Minh City, Vietnam": null,
+  "B1-15-16-17, B1 Floor, Landmark D, 772 Dien Bien Phu, ward 22, Binh Thanh district, HCM, Ho Chi Minh City, Vietnam": null,
+  "Annam Gourmet, L1 28 - 30 & L1 28B, 1st Floor, Vincom Mega Mall Smartcity, Tay Mo Ward - Dai Mo, Nam Tu Liem District, Ha Noi City., Ha Noi City, Vietnam": null,
+  "Ngõ 390, tòa nhà Berriver, Nguyễn Văn Cừ, Long Biên, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 1 D2 Giảng Võ, Ba Đình, Hà Nội, Ha Noi City, Vietnam": null,
+  "120 Hàng Trống, Hoàn Kiếm, Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 21.0288967,
+    "lon": 105.850622,
+    "display": "Brgmart, 120, Hang Trong Street, Old Quarter, Hoan Kiem Ward, Hà Nội, 11024, Vietnam"
+  },
+  "Le Grand Jardin Sài Đồng, Long Biên, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tòa nhà Lộc Ninh Singashine 104, Ninh Kiều, TT. Chúc Sơn, Chương Mỹ, Hà Nội, Ha Noi City, Vietnam": null,
+  "Số 1 Nguyễn Lương Bằng, Phạm Ngũ Lão, Hải Dương, Hai Duong Province, Vietnam": null,
+  "Hai Duong Province, Vietnam": {
+    "lat": 20.9602884,
+    "lon": 106.3604393,
+    "display": "Hải Dương Province, Vietnam"
+  },
+  "63 Hàng Trống, Hoàn Kiếm, Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 21.0302081,
+    "lon": 105.8500434,
+    "display": "63, Hang Trong Street, Old Quarter, Hoan Kiem Ward, Hà Nội, 11024, Vietnam"
+  },
+  "Intracom Vĩnh Ngọc, Đông Anh, Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 21.1126103,
+    "lon": 105.8285628,
+    "display": "Intracom Riverside, Đê Tả Sông Hồng, Vĩnh Ngọc, Hà Nội, 12323, Vietnam"
+  },
+  "Tòa MD Complex 68 Nguyễn Cơ Thạch, Nam Từ Liêm, Hà Nội, Ha Noi City, Vietnam": null,
+  "UDIC Riverside, 122 Vĩnh Tuy, Hai Bà Trưng, Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 21.0013958,
+    "lon": 105.8756366,
+    "display": "Tòa nhà Chung cư UDIC Riverside 1, 124, Nguyen Van Vien Street, Vĩnh Hưng, Vinh Hung Ward, Hà Nội, 11712, Vietnam"
+  },
+  "51 Lê Đại Hành, Hai Bà Trưng, Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 21.0113194,
+    "lon": 105.8484396,
+    "display": "Le Dai Hanh Street, Vân Hồ, Hai Ba Trung Ward, Hà Nội, 11626, Vietnam"
+  },
+  "Tầng 1, CT2 Chung Cư The Light, KĐT Trung Văn, Nam Từ Liêm, Hà Nội, Ha Noi City, Vietnam": null,
+  "Số 1 Lý Nam Đế, Hoàn Kiếm, Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 21.03504,
+    "lon": 105.8449751,
+    "display": "Ly Nam De Street, Old Quarter, Hoan Kiem Ward, Hà Nội, 11024, Vietnam"
+  },
+  "15-17 Ngọc Khánh, Ba Đình, Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 21.0296488,
+    "lon": 105.8176168,
+    "display": "Tòa nhà 15-17 Ngọc Khánh, 15-17, Ngoc Khanh Street, Giảng Võ, Giang Vo Ward, Hà Nội, 11110, Vietnam"
+  },
+  "K3 Việt Hưng, Long Biên, Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 21.0491358,
+    "lon": 105.892902,
+    "display": "Viet Hung Street, Viet Hung Ward, Hà Nội, 08443, Vietnam"
+  },
+  "Số 8 Phạm Ngọc Thạch, Đống Đa, Hà Nội, Ha Noi City, Vietnam": null,
+  "11-13 Thành Công, Ba Đình, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 1, tòa A, 275 Nguyễn Trãi, Thanh Xuân, Hà Nội, Ha Noi City, Vietnam": null,
+  "23 Minh Khai, Hồng Bàng, Hải Phòng, Hai Phong City, Vietnam": {
+    "lat": 20.8617937,
+    "lon": 106.6846102,
+    "display": "Minh Khai, Hồng Bàng Ward, Hải Phòng, 18000, Vietnam"
+  },
+  "Thị trấn Như Quỳnh-Văn Lâm-Hưng Yên, Hung Yen Province, Vietnam": null,
+  "89 Bùi Ngọc Dương, P Bạch Mai, Q Hai Bà Trưng, Hà Nội, Ha Noi City, Vietnam": null,
+  "C12 Thanh Xuân Bắc, Thanh Xuân, Hà Nội, Ha Noi City, Vietnam": null,
+  "TTTM Phố Nối, xã Nghĩa Hiệp, tỉnh Hưng Yên, Hung Yen Province, Vietnam": null,
+  "Tổ 2, Khu Vĩnh Xuân, Phường Mạo Khê, Thị xã Đông Triều, Tỉnh Quảng Ninh, Quang Ninh Province, Vietnam": null,
+  "Quang Ninh Province, Vietnam": {
+    "lat": 21.1718046,
+    "lon": 107.2012742,
+    "display": "Quảng Ninh Province, Vietnam"
+  },
+  "174 Lạc Long Quân, Tây Hồ;Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 21.051849,
+    "lon": 105.8091268,
+    "display": "Oriental Westlake, 174, Lac Long Quan Road, Trich Sai, Ke Buoi, Tay Ho Ward, Hà Nội, 11214, Vietnam"
+  },
+  "18 Lê Thành Duy, Phước Trung, Bà Rịa, Bà Rịa - Vũng Tàu, Vietnam, Ba Ria - Vung Tau Province, Vietnam": null,
+  "Ba Ria - Vung Tau Province, Vietnam": {
+    "lat": 9.7836157,
+    "lon": 107.539162,
+    "display": "Bà Rịa - Vũng Tàu Province, Vietnam"
+  },
+  "35 Ấp Bắc, P.5, TP Mỹ Tho - Tiền Giang, Tien Giang Province, Vietnam": null,
+  "Tien Giang Province, Vietnam": {
+    "lat": 10.3647275,
+    "lon": 106.3208157,
+    "display": "Tiền Giang Province, Đồng Tháp Province, 83000, Vietnam"
+  },
+  "Khu vực 3, Phường Ngã Bảy, Thị xã Ngã Bảy, Tỉnh Hậu Giang, Hau Giang Province, Vietnam": null,
+  "Hau Giang Province, Vietnam": {
+    "lat": 9.7881262,
+    "lon": 105.6390398,
+    "display": "Hậu Giang Province, Vietnam"
+  },
+  "Số 6 Hùng Vương - P.6 - Tp. Sóc Trăng, Soc Trang Province, Vietnam": null,
+  "Soc Trang Province, Vietnam": {
+    "lat": 9.3203771,
+    "lon": 106.1059371,
+    "display": "Sóc Trăng Province, 96113, Vietnam"
+  },
+  "Vòng xoay Ngã tư Mỹ An, Đường Hùng Vương, Thị Trấn Mỹ An, Huyện Tháp Mười, Đồng Tháp, Dong Thap Province, Vietnam": null,
+  "Dong Thap Province, Vietnam": {
+    "lat": 10.425183,
+    "lon": 105.9271362,
+    "display": "Đồng Tháp Province, Vietnam"
+  },
+  "Quốc lộ 91, khu vực Phụng Thạnh 1, phường Thốt Nốt, Quận Thốt Nốt, TP. Cần Thơ, Can Tho City, Vietnam": null,
+  "Can Tho City, Vietnam": {
+    "lat": 10.0362046,
+    "lon": 105.7872656,
+    "display": "Cần Thơ, Vietnam"
+  },
+  "191 Quang Trung, P.Hiệp Phú, Q.9, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "Tầng 2 & 3 TTTM Sense City (Tòa nhà Gigamall) 240-242 Phạm Văn Đồng, P. Hiệp Bình Chánh, Q. Thủ Đức, Ho Chi Minh City, Vietnam": null,
+  "Tầng B1 Trung tâm Thương mại Vạn Hạnh, Số 11 Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "1362 Huỳnh Tấn Phát, Khu phố 1, P.Phú Mỹ, Quận 7, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "912 Hùng Vương, Tổ Dân Phố 4, Thị trấn Chư Sê , huyện Chư Sê, tỉnh Gia Lai, Gia Lai Province, Vietnam": null,
+  "Gia Lai Province, Vietnam": {
+    "lat": 14.0201373,
+    "lon": 108.6354524,
+    "display": "Gia Lai Province, Vietnam"
+  },
+  "Khu trung tâm Thương mại Tổng hợp 16ha, P.Vĩnh Thanh Vân, TP. Rạch Giá, Tỉnh Kiên Giang, Kien Giang Province, Vietnam": null,
+  "Kien Giang Province, Vietnam": {
+    "lat": 9.7667502,
+    "lon": 104.4726437,
+    "display": "Kiên Giang Province, Vietnam"
+  },
+  "12 Nguyễn Huệ A, P.Mỹ Long, TP. Long Xuyên - An Giang, An Giang Province, Vietnam": null,
+  "An Giang Province, Vietnam": {
+    "lat": 10.3188672,
+    "lon": 105.0432488,
+    "display": "An Giang Province, Vietnam"
+  },
+  "Tầng trệt Tòa nhà V2, V3 - Văn Phú Victoria -CT9, Khu đô thị mới Văn Phú, Phường Phú La, Quận Hà Đôn, Ha Noi City, Vietnam": null,
+  "Số 1606A đường Hùng Vương, phường Gia Cẩm, thành phố Việt Trì, tỉnh Phú Thọ, Phu Tho Province, Vietnam": null,
+  "Phu Tho Province, Vietnam": {
+    "lat": 21.3007538,
+    "lon": 105.1349604,
+    "display": "Phú Thọ Province, Vietnam"
+  },
+  "Khu trung tâm TM Hoàng Vũ Plaza, Quốc lộ 1A, Thị xã An Nhơn, Tỉnh Bình Định, Binh Dinh Province, Vietnam": null,
+  "Binh Dinh Province, Vietnam": {
+    "lat": 14.1086959,
+    "lon": 109.1145897,
+    "display": "Bình Định Province, Gia Lai Province, Vietnam"
+  },
+  "478 Điện Biên Phủ, Q. Thanh Khê, TP. Đà Nẵng, Da Nang City, Vietnam": null,
+  "Da Nang City, Vietnam": {
+    "lat": 16.068,
+    "lon": 108.212,
+    "display": "Đà Nẵng, Vietnam"
+  },
+  "Tầng 2, Trung tâm Thương mại Mipec Riverside, Số 2 Long Biên 2, Ngọc Lâm, Long Biên, Hà Nội, Ha Noi City, Vietnam": null,
+  "Số 2 Khu tái định cư Vĩnh Lộc B, Đường số 8, Xã Vĩnh Lộc B, Huyện Bình Chánh, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "Đường Nguyễn Sinh Sắc, Khóm 2, Phường 2, TP. Sa Đéc, Tỉnh Đồng Tháp, Dong Thap Province, Vietnam": null,
+  "Nguyễn Du, khu tái định cư, khóm Long Thạnh D, Phường Long Thạnh, Thị xã Tân Châu, Tỉnh An Giang, An Giang Province, Vietnam": null,
+  "Ấp Bắc Sơn, đường tránh tỉnh lộ 943, Thị Trấn Núi Sập , huyện Thoại Sơn, Tỉnh An Giang, An Giang Province, Vietnam": null,
+  "Khóm 2, thị trấn Tiểu Cần, huyện Tiểu Cần, Tỉnh Trà Vinh, Tra Vinh Province, Vietnam": null,
+  "Tra Vinh Province, Vietnam": {
+    "lat": 9.5815192,
+    "lon": 106.5306792,
+    "display": "Trà Vinh Province, Vĩnh Long Province, 87000, Vietnam"
+  },
+  "Tầng B1, Crescent Mall, 101 Tôn Dật Tiên, P.Tân Phú, Quận 7, Ho Chi Minh City, Vietnam": null,
+  "934 Quốc Lộ 1A, Linh Trung, Thủ Đức, TP. Hồ Chí Minh, Ho Chi Minh City, Vietnam": null,
+  "96 Hùng Vương, P.9, Q.5, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "497 Hòa Hảo, P.7, Q.10, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "01 Mai Thị Tốt, P. 2, TP Tân An, Tỉnh Long An, Long An Province, Vietnam": null,
+  "Long An Province, Vietnam": {
+    "lat": 10.7119482,
+    "lon": 106.1257781,
+    "display": "Long An Province, Tây Ninh Province, Vietnam"
+  },
+  "Đường Nguyễn Đáng, Khóm 3, Phường 6, Thành phố Trà Vinh, Tỉnh Trà Vinh, Tra Vinh Province, Vietnam": null,
+  "Trung tâm Thương mại Hiền Đức, Đường Phan Chu Trinh, P.Điện Biên, Tp.Thanh Hóa, Tỉnh Thanh Hóa, Thanh Hoa Province, Vietnam": null,
+  "Thanh Hoa Province, Vietnam": {
+    "lat": 19.9781573,
+    "lon": 105.4816107,
+    "display": "Thanh Hóa Province, Vietnam"
+  },
+  "Tòa nhà Trung tâm Thương Mại SOIVA Plaza, Đường Mê Linh, P.Khai Quang, TP. Vĩnh Yên, Tỉnh Vĩnh Phúc, Vinh Phuc Province, Vietnam": null,
+  "Vinh Phuc Province, Vietnam": {
+    "lat": 21.3647247,
+    "lon": 105.5836703,
+    "display": "Vĩnh Phúc Province, Phú Thọ Province, Vietnam"
+  },
+  "2038 Hùng Vương, Phường Cam Lộc, Thành Phố Cam Ranh, Tỉnh Khánh Hòa, Khanh Hoa Province, Vietnam": null,
+  "Khanh Hoa Province, Vietnam": {
+    "lat": 12.2980751,
+    "lon": 108.9950386,
+    "display": "Khánh Hòa Province, Vietnam"
+  },
+  "Số 02 Trần Hưng Đạo, Thành phố Đông Hà, tỉnh Quảng Trị, Quang Tri Province, Vietnam": null,
+  "Quang Tri Province, Vietnam": {
+    "lat": 17.2166964,
+    "lon": 106.9548246,
+    "display": "Quảng Trị Province, Vietnam"
+  },
+  "Số 26 đường 3/2, P1, Tx.Vĩnh Long, Vinh Long Province, Vietnam": null,
+  "Vinh Long Province, Vietnam": {
+    "lat": 10.046765,
+    "lon": 106.2947443,
+    "display": "Vĩnh Long Province, Vietnam"
+  },
+  "464 Hùng Vương, Phường An Bình, Thị Xã Buôn Hồ, Tỉnh Đăk Lăk, Dak Lak Province, Vietnam": null,
+  "Dak Lak Province, Vietnam": {
+    "lat": 12.8741856,
+    "lon": 108.7979302,
+    "display": "Đắk Lắk Province, Vietnam"
+  },
+  "Tổ dân phố 2, đường Hùng Vương, thị trấn QUảng Phú, huyện Cư M'gar, tỉnh Đắk Lắk, Dak Lak Province, Vietnam": null,
+  "205B Lê Hồng Phong, Phường Quyết Thắng, Thành phố Kon Tum, Tỉnh Kon Tum, Kon Tum Province, Vietnam": null,
+  "Kon Tum Province, Vietnam": {
+    "lat": 14.6995372,
+    "lon": 107.9323831,
+    "display": "Kon Tum province, Vietnam"
+  },
+  "Số 557, đường Tô Ký, phường Trung Mỹ Tây, Quận 12, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "Tòa nhà Pearl Plaza, 561A Điện Biên Phủ, P.25, Quận Bình Thạnh, Ho Chi Minh City, Vietnam": {
+    "lat": 10.8001248,
+    "lon": 106.7186017,
+    "display": "Pearl Plaza, 561A, Điện Biên Phủ, Khu phố 52, Phường Thạnh Mỹ Tây, Thủ Đức, Ho Chi Minh City, 72308, Vietnam"
+  },
+  "158 đường số 19, Bình Trị Đông B, Q.Bình Tân, Tp.HCM, Ho Chi Minh City, Vietnam": null,
+  "121 Quốc lộ 15, P.Tân Tiến, Tp.Biên Hoà - Đồng Nai, Dong Nai Province, Vietnam": null,
+  "Dong Nai Province, Vietnam": {
+    "lat": 11.0806241,
+    "lon": 107.1873919,
+    "display": "Đồng Nai Province (former), Vietnam"
+  },
+  "319 Trần Hưng Đạo, P.1, Tx.Vị Thanh - Hậu Giang, Hau Giang Province, Vietnam": null,
+  "Tháp Nước, đường Trần Phú, phường 2, thành phố Bảo Lộc, tỉnh Lâm Đồng, Lam Dong Province, Vietnam": null,
+  "Lam Dong Province, Vietnam": {
+    "lat": 11.6614957,
+    "lon": 108.1335279,
+    "display": "Lâm Đồng Province, Vietnam"
+  },
+  "71 Nguyễn Tất Thành, P.Tân An, Tp.Buôn Ma Thuột, tỉnh Đắklắk, Dak Lak Province, Vietnam": null,
+  "Đường Huỳnh Thúc Kháng, Tổ dân phố 1, Phường Nghĩa Thành, Thị xã Gia Nghĩa, Tỉnh Đắk Nông, Dak Nong Province, Vietnam": null,
+  "Dak Nong Province, Vietnam": {
+    "lat": 12.2807367,
+    "lon": 107.742636,
+    "display": "Đắk Nông Province, Lâm Đồng Province, 82000, Vietnam"
+  },
+  "21. Cách Mạng Tháng 8 – P.Hoa Lư – Tp. Pleiku – Gia lai, Gia Lai Province, Vietnam": null,
+  "40-54 Tuy Lý Vương, P.13, Q.8, Tp.HCM, Ho Chi Minh City, Vietnam": null,
+  "Đường Nguyễn Nghiêm, thôn Vĩnh Bình, xã Phổ Ninh, huyện Đức Phổ, tỉnh Quảng Ngãi, Quang Ngai Province, Vietnam": null,
+  "Quang Ngai Province, Vietnam": {
+    "lat": 14.9953739,
+    "lon": 108.691729,
+    "display": "Quảng Ngãi Province, Vietnam"
+  },
+  "Tầng 2 & 3 - Trung tâm thương mại SC VivoCity, Số 1058 Đại Lộ Nguyễn Văn Linh, phường Tân Phong, Q.7, Ho Chi Minh City, Vietnam": null,
+  "Đường 30 tháng 4, phường Chánh Nghĩa, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Binh Duong Province, Vietnam": null,
+  "Đường 781, khu phố 3, thị trấn Châu Thành, huyện Châu Thành, tỉnh Tây Ninh, Tay Ninh Province, Vietnam": null,
+  "Tay Ninh Province, Vietnam": {
+    "lat": 11.0800527,
+    "lon": 106.2610531,
+    "display": "Tây Ninh Province, Vietnam"
+  },
+  "TTTM Đồng Xoài, Phú Riềng Đỏ, P. Tân Bình, TX. Đồng Xoài – Tỉnh Bình Phước, Binh Phuoc Province, Vietnam": null,
+  "Binh Phuoc Province, Vietnam": {
+    "lat": 11.8000378,
+    "lon": 106.9151381,
+    "display": "Bình Phước Province, Vietnam"
+  },
+  "Quốc lộ 22B Khu phố Rạch Sơn, Thị trấn Gò Dầu, Huyện Gò Dầu, Tỉnh Tây Ninh (Bến xe Gò Dầu cũ), Tay Ninh Province, Vietnam": null,
+  "TTTM TTC Plaza Tây Ninh, số 217 - 219 đường 30/4, P.2, TP. Tây Ninh, Tỉnh Tây Ninh, Tay Ninh Province, Vietnam": null,
+  "06 Trần Hưng đạo, P.Phú Hòa, Tp Huế, Thua Thien Hue Province, Vietnam": null,
+  "Thua Thien Hue Province, Vietnam": null,
+  "02 Đường Lê Hồng Phong, Phường Phước Hải, Thành phố Nha Trang, Tỉnh Khánh Hòa, Khanh Hoa Province, Vietnam": null,
+  "1A Nguyễn Tất Thành, P.Bình Hưng, Tp.Phan Thiết - Bình Thuận, Binh Thuan Province, Vietnam": null,
+  "Binh Thuan Province, Vietnam": {
+    "lat": 10.4398768,
+    "lon": 108.5137429,
+    "display": "Bình Thuận Province, Vietnam"
+  },
+  "242 Nguyễn Nghiêm, Tổ 6, Phường Nguyễn Nghiêm, Tp. Quảng Ngãi, Tỉnh Quảng Ngãi, Quang Ngai Province, Vietnam": null,
+  "819 Đường Hương Lộ 2, Phường Bình Trị Đông, Quận Bình Tân, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "128 Đường Đào Cử, Khu phố Phong Thạnh, Thị trấn Cần THạnh, Huyện Cần Giờ, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "189C Cống Quỳnh - P.Nguyễn Cư Trinh, Q1 - TPHCM, Ho Chi Minh City, Vietnam": null,
+  "18 Đỗ Văn Dậy, Ấp Tân Thới Nhất, Xã Tân Hiệp, Huyện Hóc Môn, Ho Chi Minh City, Vietnam": null,
+  "304A Quang Trung, Phường 11, Quận Gò Vấp, Ho Chi Minh City, Vietnam": null,
+  "Lô C2, khu công nghiệp dịch vụ thủy sản Đà Nẵng, đường Bình Than, phường Nại Hiên Đông, quận Sơn Trà, Da Nang City, Vietnam": null,
+  "Đường Lê Duẩn, Khu phố 2, Thị trấn Tân Châu, Huyện Tân Châu, Tỉnh Tây Ninh, Tay Ninh Province, Vietnam": null,
+  "576 Cách Mạng Tháng 8, Phường 3, Thành Phố Tây Ninh, Tỉnh Tây Ninh, Tay Ninh Province, Vietnam": null,
+  "36 Nguyễn Thái Học, P.7, TP.Vũng Tàu, Ba Ria - Vung Tau Province, Vietnam": null,
+  "Tầng 1 (trệt), Tòa nhà CT6 Xa La, số 339 Quốc lộ 70B, Cầu Bươu, Phường Kiến Hưng, Quận Hà Đông, Hà N, Ha Noi City, Vietnam": null,
+  "91 Phố Điện Biên, Phường Cửa Bắc, Thành phố Nam Định, Tỉnh Nam Định (Tầng 2 Tòa nhà Nam Định Tower), Nam Dinh Province, Vietnam": null,
+  "Nam Dinh Province, Vietnam": {
+    "lat": 19.9952624,
+    "lon": 106.485807,
+    "display": "Nam Định Province, Ninh Bình Province, Vietnam"
+  },
+  "97 Trần Phú - F.Phủ Hà - Tp.Phan Rang - Tháp Chàm, Ninh Thuan Province, Vietnam": null,
+  "Ninh Thuan Province, Vietnam": {
+    "lat": 11.4639176,
+    "lon": 109.1316501,
+    "display": "Ninh Thuận Province, Khánh Hòa Province, Vietnam"
+  },
+  "Số 7, Đường Trần Huỳnh, Phường 7, Thành phố Bạc Liêu, Tỉnh Bạc Liêu, Bac Lieu Province, Vietnam": null,
+  "Bac Lieu Province, Vietnam": {
+    "lat": 8.8961366,
+    "lon": 105.6969598,
+    "display": "Bạc Liêu Province, Cà Mau Province, 97000, Vietnam"
+  },
+  "26A Trần Quốc Tuấn, P.4, TX.Bến Tre, tỉnh Bến Tre, Ben Tre Province, Vietnam": null,
+  "Ben Tre Province, Vietnam": {
+    "lat": 9.8837431,
+    "lon": 106.7340154,
+    "display": "Bến Tre Province, Vĩnh Long Province, Vietnam"
+  },
+  "Số 9 Trần Hưng Đạo, Phường 5, TP Cà Mau, Tỉnh Cà Mau, Ca Mau Province, Vietnam": null,
+  "Ca Mau Province, Vietnam": {
+    "lat": 9.0180177,
+    "lon": 105.0869724,
+    "display": "Cà Mau Province, Vietnam"
+  },
+  "276 Nguyễn Ảnh Thủ, Phường Hiệp Thành, Quận 12, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "Đặng Thúc Vịnh, Xã Thới Tam Thôn, Huyện Hóc Môn, TP.Hồ Chí Minh, Ho Chi Minh City, Vietnam": null,
+  "Số 18, đường Nguyễn Bình, Xã Phú Xuân, huyện Nhà Bè, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "571-573 Nguyễn Kiệm, P.9, Q.Phú Nhuận, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "102 Phan Văn Hớn, phường Tân Thới Nhất, Quận 12, TPHCM, Ho Chi Minh City, Vietnam": {
+    "lat": 10.8311143,
+    "lon": 106.6175271,
+    "display": "Chung Cư Topaz Home, 102, Phan Văn Hớn, Khu phố 23, Phường Đông Hưng Thuận, Thủ Đức, Ho Chi Minh City, 71509, Vietnam"
+  },
+  "Tầng hầm Tòa tháp C, Khu đô thị mới Kim Văn Kim Lũ, Phường Đại Kim, Quận Hoàng Mai, Tp.Hà Nội, Ha Noi City, Vietnam": null,
+  "Ấp Thanh Ba, xã Mỹ Lộc, huyện Cần Giuộc, tỉnh Long An, Long An Province, Vietnam": null,
+  "TTTM SC Cần Thơ - số 1 Đại lộ Hòa Bình, P. Tân An, Q.Ninh Kiều, TP.Cần Thơ, Can Tho City, Vietnam": null,
+  "Tổ 21, khóm Châu Quới 3, phường Châu Phú B, thành phố Châu Đốc, tỉnh An Giang, An Giang Province, Vietnam": null,
+  "Trung tâm Thương Mại Bình Dương Square - Số 1 Phú Lợi, P. Phú Hòa, TP. Thủ Dầu Một, Tỉnh Bình Dương, Binh Duong Province, Vietnam": null,
+  "Đường CMT8 - ĐT.741, khu phố Tân An, thị trấn Tân Phú, huyện Đồng Phú, Tỉnh Bình Phước, Binh Phuoc Province, Vietnam": null,
+  "Khu phố 1, Thị trấn Dương Minh Châu, Huyện Dương Minh Châu, Tỉnh Tây Ninh, Tay Ninh Province, Vietnam": null,
+  "Khu công nghiệp Phước Đông, Xã Phước Đông, Huyện Gò Dầu, Tỉnh Tây Ninh, Tay Ninh Province, Vietnam": null,
+  "2 Phan Đình Phùng, TP. Hà Tĩnh, Tỉnh Hà Tĩnh, Ha Tinh Province, Vietnam": {
+    "lat": 10.3805867,
+    "lon": 104.4703296,
+    "display": "Phan Đình Phùng, 2 - Pháo Đài, Hà Tiên, Phường Hà Tiên, An Giang Province, 91513, Vietnam"
+  },
+  "Đường Thống Nhất, khu phố 4, phường Tân Thiện, thị xã Lagi, tỉnh Bình Thuận, Binh Thuan Province, Vietnam": null,
+  "Đường Lý Thường Kiệt, Khu phố Minh Tân, Thị trấn Phan Rí Cửa, Huyện Tuy Phong, Tỉnh Bình Thuận, Binh Thuan Province, Vietnam": null,
+  "Khu đô thị phía Bắc đường Lê Lợi, phường Đồng Phú, thành phố Đồng Hới, tỉnh Quảng Bình, Quang Binh Province, Vietnam": null,
+  "Quang Binh Province, Vietnam": {
+    "lat": 17.5157162,
+    "lon": 106.6225405,
+    "display": "Quảng Bình Province, Vietnam"
+  },
+  "07 Lê Duẩn, P.Lý Thường Kiệt, Tp.Qui Nhơn - Bình Định, Binh Dinh Province, Vietnam": null,
+  "Số 68/1 Quốc lộ 13, Phường Hiệp Bình Chánh, Quận Thủ Đức, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "241A Chu Văn An, Phường 12, Quận Bình Thạnh, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "357 Quốc lộ 22, ấp Thượng, xã Tân Thông Hội, huyện Củ Chi, Tp HCM, Ho Chi Minh City, Vietnam": null,
+  "Số 125 Đồng Văn Cống, Phường Thạnh Mỹ Lợi, Quận 2, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "Khu phố 3 đường Nguyễn Văn Linh, thị trấn Tân Biên, huyện Tân Biên, tỉnh Tây Ninh, Tay Ninh Province, Vietnam": null,
+  "188 Hậu Giang, P.6, Q.6, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "Quốc lộ 51, Tổ 12 Khu phố Tân Phú, Thị trấn Phú Mỹ, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu, Ba Ria - Vung Tau Province, Vietnam": null,
+  "Khu phố Lộc An, Thị trấn Trảng Bàng, Huyện Trảng Bàng, Tỉnh Tây Ninh, Tay Ninh Province, Vietnam": null,
+  "51 Nguyễn Văn Cừ, Phường Ngô Quyền, TP. Bắc Giang, Tỉnh Bắc Giang, Bac Giang Province, Vietnam": null,
+  "Bac Giang Province, Vietnam": {
+    "lat": 21.3740092,
+    "lon": 106.4663176,
+    "display": "Bắc Giang Province, Bắc Ninh Province, Vietnam"
+  },
+  "Số 1 Lê Hồng Phong, Phường Lạc Viên, Quận Ngô Quyền, TP Hải Phòng (Ngã 5 Cát Bi), Hai Phong City, Vietnam": null,
+  "07 Phan Chu Trinh, P.Phước Hoà, Tx.Tam Kỳ - Quảng Nam, Quang Nam Province, Vietnam": null,
+  "Quang Nam Province, Vietnam": {
+    "lat": 15.5587908,
+    "lon": 108.109299,
+    "display": "Quảng Nam Province, Vietnam"
+  },
+  "Ô phố B8, Khu dân dụng Duy Tân, P.4, Tp.Tuy Hoà - Phú Yên, Phu Yen Province, Vietnam": null,
+  "Phu Yen Province, Vietnam": {
+    "lat": 13.1998999,
+    "lon": 109.2390033,
+    "display": "Phú Yên Province, Đắk Lắk Province, 56120, Vietnam"
+  },
+  "Số 61 Đường Quốc lộ 1A, khu phố 4, thị trấn Bến Lức, huyện Bến Lức, tỉnh Long An, Long An Province, Vietnam": null,
+  "35-37 Cách Mạng Tháng Tám, phường An Thới, quận Bình Thủy, TP.Cần Thơ, Can Tho City, Vietnam": null,
+  "Khu phố 2, Đường 30/4, Phường 1, Thị xã Cai Lậy, Tỉnh Tiền Giang, Tien Giang Province, Vietnam": null,
+  "175 Hòa Bình, Phường Hiệp Tân, Quận tân Phú, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "167/2 Nguyễn Ảnh Thủ, P.Trung Mỹ Tây, Q.12, Tp. HCM, Ho Chi Minh City, Vietnam": null,
+  "168 Nguyễn Đình Chiểu, P.6, Q.3, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "Tầng trệt cao ốc SCREC, P.12, Q.3, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "Km số 10, Đường Nguyễn Trãi, P. Mộ Lao, Q. Hà Đông , Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng trệt Khu phức hợp thương mại nhà ở Goldsilk, Số 430 Phố Cầu Am,Phường Vạn Phúc, Quận Hà Đông, T, Ha Noi City, Vietnam": null,
+  "543/1 Đường Phan Văn Trị, Phường 7, Quận Gò Vấp, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "Số 01 Ngô Thời Nhậm, Phường 1, TP. Cao Lãnh, Tỉnh Đồng Tháp, Dong Thap Province, Vietnam": null,
+  "Đường Lý Thường Kiệt, Khóm 1, phường 1, thị xã Duyên Hải, tỉnh Trà Vinh, Tra Vinh Province, Vietnam": null,
+  "Khu phố 2, đường Mạc Công Du, phường Đông Hồ, thị xã Hà Tiên, tỉnh Kiên Giang (nhà văn hóa cũ), Kien Giang Province, Vietnam": null,
+  "1332 Nguyễn Trung Trực, P. An Bình, TP Rạch Giá, tỉnh Kiên Giang, Kien Giang Province, Vietnam": null,
+  "Khu A, Chung cư Phú Thọ, P. 15, Q. 11, TP. HCM, Ho Chi Minh City, Vietnam": null,
+  "856 Âu Cơ, P.13, Quận Tân Bình, Ho Chi Minh City, Vietnam": null,
+  "431A Hoàng Văn Thụ, Phường 4, Quận Tân Bình, Ho Chi Minh City, Vietnam": null,
+  "Chung cư Sài Gòn Avenue, Đường số 4, khu phố 4, Phường Tam Bình, Quận Thủ Đức, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "Đường Trần Công Tường, khu phố 2, phường 5, thị xã Gò Công, tỉnh Tiền Giang, Tien Giang Province, Vietnam": null,
+  "Khu nhà cao ốc KII, Phường An Thạnh, Thị xã Hồng Ngự, Tỉnh Đồng Tháp, Dong Thap Province, Vietnam": null,
+  "06 Bà Hom (vòng xoay Phú Lâm), P.13, Q.6, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "48 Hoa Sứ, P.7, Q. Phú Nhuận. TP. HCM, Ho Chi Minh City, Vietnam": null,
+  "181 Cao Thắng (Nối dài), P.12, Quận 10, Ho Chi Minh City, Vietnam": null,
+  "Tầng trệt, khu căn hộ I-Home, số 359 Phạm Văn Chiêu, P.14, Q. Gò Vấp, Tp.HCM, Ho Chi Minh City, Vietnam": null,
+  "02 Trường Chinh, P.Tây Thạnh, Q.Tân Phú, TPHCM, Ho Chi Minh City, Vietnam": null,
+  "14 Nguyễn Cao, P.Tiền An, Bắc Ninh, Vietnam, Bac Ninh Province, Vietnam": null,
+  "Bac Ninh Province, Vietnam": {
+    "lat": 21.3282166,
+    "lon": 106.4625257,
+    "display": "Bắc Ninh Province, Vietnam"
+  },
+  "Đại Đình, Từ Sơn, Bac Ninh Province, Vietnam, Bac Ninh Province, Vietnam": null,
+  "43FG+6GM, xóm Chùa, Tiên Du, Bắc Ninh, Vietnam, Bac Ninh Province, Vietnam": null,
+  "Đ. Lý Thái Tổ, P.Ninh Xá, tp. Bắc Ninh, Bắc Ninh, Vietnam, Bac Ninh Province, Vietnam": null,
+  "543V+XCW, TT. Phố Mới, Thành phố Bắc Ninh, Bắc Ninh, Vietnam, Bac Ninh Province, Vietnam": null,
+  "QL17, TT. Gia Bình, Gia Bình, Bắc Ninh, Vietnam, Bac Ninh Province, Vietnam": null,
+  "51A đường Nguyễn Văn Linh, Phường Tân Phong, Quận 7, Tp.HCM, Ho Chi Minh City, Vietnam": null,
+  "Tầng 01 – Tòa nhà Orchid, Số 200  Đường 3/2, P.12, Q.10, Tp.HCM, Ho Chi Minh City, Vietnam": null,
+  "584 Huỳnh Tấn Phát, Khu Phố 3, P.Tân Phú, Q.7, Tp.HCM, Ho Chi Minh City, Vietnam": null,
+  "9A Chung Cư Cụm III-IV, Khu Dân Cư Trung Sơn, Xã Bình Hưng, H.Bình Chánh, Tp.HCM, Ho Chi Minh City, Vietnam": null,
+  "Số 142 Lê Duẩn, P. Khâm Thiên, Q. Đống Đa, TP. Hà Nội, Ha Noi City, Vietnam": null,
+  "Số 324 Tây Sơn, P. Ngã Tư Sở, Q. Đống Đa, TP. Hà Nội, Ha Noi City, Vietnam": null,
+  "Số 36 Hoàng Cầu, P. Ô Chợ Dừa, Q. Đống Đa, TP. Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 1, Khu căn hộ Melody Residences, 869 Âu Cơ, P. Tân Sơn Nhì, Q. Tân Phú, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "Tầng 1, TTTM khu căn hộ Lavita Charm, Đường số 1, P. Trường Thọ, TP. Thủ Đức, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "PF07, Tầng Lửng, Tòa Nhà Sapphire, Số 92 Đường Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "Tầng 01, Trung Tâm Thương Mại Faifo Lane, Số 1 Đường Nguyễn Thanh Sơn, Phường Thạnh Mỹ Lợi, TP. Thủ Đức, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "Số G.1.10, Tầng 1, Cửa hàng (10), Khối G, Ấp 5, Xã Phước Kiển, Huyện Nhà Bè, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "207C Nguyễn Xí, Phường 26, Quận Bình Thạnh, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "Khu P1.12 tầng trệt – Trung tâm thương mại Vista Walk, 628C Xa lộ Hà Nội, Phường An Phú, TP. Thủ Đức, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "Tầng 1 Khối A2 Số 12 Nguyễn Hữu Thọ, Xã Phước Kiển, Huyện Nhà Bè, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "T05-T06, Đường D11, Khu đô thị Empire City, Phường Thủ Thiêm, TP. Thủ Đức, TP.HCM, Ho Chi Minh City, Vietnam": null,
+  "Đối Diện Công Ty Sản Xuất Ống Thép Sao Việt Cạnh Cột Mốc H1/13+20M - TL 427, Hà Hồi, Thường Tín, Hà Nội, Vietnam, Ha Noi City, Vietnam": null,
+  "69 P. Phạm Hồng Thái, P. Phú Thịnh, Sơn Tây, Hà Nội, Vietnam, Ha Noi City, Vietnam": null,
+  "6MJX+77J, Tiền Châu, Phúc Yên, Vĩnh Phúc, Vietnam, Vinh Phuc Province, Vietnam": null,
+  "9 Nguyễn Bình, Hồng Phong, tx. Đông Triều, Quảng Ninh, Vietnam, Quang Ninh Province, Vietnam": null,
+  "403 Đ. Trần Hưng Đạo, Hiệp Sơn, Kinh Môn, Hải Dương, Vietnam, Hai Duong Province, Vietnam": null,
+  "2007 QL37B, Giao Hà, Giao Thuỷ, Nam Định, Vietnam, Nam Dinh Province, Vietnam": null,
+  "CVF9+R8H, Hồng Tiến, Phổ Yên, Thai Nguyen, Vietnam, Thai Nguyen Province, Vietnam": null,
+  "Thai Nguyen Province, Vietnam": {
+    "lat": 21.9610968,
+    "lon": 105.8440789,
+    "display": "Thái Nguyên Province, Vietnam"
+  },
+  "Siêu Thị Lan Chi-QL32, Tây Đằng, Ba Vì, Hà Nội, Vietnam, Ha Noi City, Vietnam": null,
+  "5 KhốI 2A QL3, Đông Anh, Hà Nội, Vietnam, Ha Noi City, Vietnam": null,
+  "232 TL87A, Xuân Sơn, Sơn Tây, Hà Nội, Vietnam, Ha Noi City, Vietnam": null,
+  "56, Tiểu Khu Phú Mỹ, Huyện Phú Xuyên, Thành Phố Hà Nội, TT. Phú Xuyên, Phú Xuyên, Hà Nội, Vietnam, Ha Noi City, Vietnam": null,
+  "VHVJ+3RR, Đ. Hồ Chí Minh, Thủy Xuân Tiên, Chương Mỹ, Hà Nội, Vietnam, Ha Noi City, Vietnam": null,
+  "187 ĐT972, Vĩnh Trụ, Lý Nhân, Hà Nam, Vietnam, Ha Nam Province, Vietnam": null,
+  "Ha Nam Province, Vietnam": {
+    "lat": 20.5340294,
+    "lon": 105.9810248,
+    "display": "Hà Nam Province, Ninh Bình Province, 03513, Vietnam"
+  },
+  "23RV+CVM, Gia Đông, Thuận Thành, Bac Ninh Province, Vietnam, Bac Ninh Province, Vietnam": null,
+  "JWVG+J4R, Đồng Văn, Duy Tiên, Hà Nam, Vietnam, Ha Nam Province, Vietnam": null,
+  "43 Ngõ 1 Bắc Kạn, Hàng Văn Thụ0, Thành phố Thái Nguyên, Thái Nguyên, Vietnam, Thai Nguyen Province, Vietnam": null,
+  "WQWW+99 Yên Hưng, Quảng Ninh, Vietnam, Quang Ninh Province, Vietnam": null,
+  "WPG6+XJ Chương Mỹ, Hanoi, Vietnam, Ha Noi City, Vietnam": null,
+  "2GX3+FWG, Cổ Đông, Sơn Tây, Hanoi, Vietnam, Ha Noi City, Vietnam": null,
+  "94, Hoàng Diệu, Phường Quang Trung, Thị Xã Sơn Tây, Thành Phố Hà Nội, P. Phú Thịnh, Sơn Tây, Hà Nội, Vietnam, Ha Noi City, Vietnam": null,
+  "Vĩnh Yên,, Tích Sơn, Vĩnh Yên, Vĩnh Phúc, Vietnam, Vinh Phuc Province, Vietnam": null,
+  "498W+3FG, TT. Sao Đỏ, Chí Linh, Hải Dương, Vietnam, Hai Duong Province, Vietnam": null,
+  "WM5F+X8H, Thủy Sơn, Thủy Nguyên, Haiphong, Vietnam, Hai Phong City, Vietnam": null,
+  "56 Quyết Thắng, Trung Sơn, Tam Điệp, Ninh Bình, Vietnam, Ninh Binh Province, Vietnam": null,
+  "Ninh Binh Province, Vietnam": {
+    "lat": 20.2867258,
+    "lon": 106.1000359,
+    "display": "Ninh Bình Province, Vietnam"
+  },
+  "9B Kha Van Can Street, Linh Dong Ward, Thu Duc District, Ho Chi Minh City, Ho Chi Minh City, Vietnam": null,
+  "Imperial Plaza Building Basement, 360 Giai Phong, Phuong Liet, Thanh Xuan, Hanoi City, Ha Noi City, Vietnam": null,
+  "135 Hẻm 53 Nguyễn Huệ, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam, Ho Chi Minh City, Vietnam": null,
+  "300 Phạm Hùng, Bình Hưng, Bình Chánh, Thành phố Hồ Chí Minh, Vietnam, Ho Chi Minh City, Vietnam": null,
+  "XHMH+GV8, Trung An, Củ Chi, Thành phố Hồ Chí Minh, Vietnam, Ho Chi Minh City, Vietnam": null,
+  "Dương Văn Bé, Hai Bà Trưng, Hà Nội, Ha Noi City, Vietnam": null,
+  "Phú Thượng, Tây Hồ, Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 21.0814583,
+    "lon": 105.81481,
+    "display": "Phú Thượng, Vo Chi Cong Road, Nhật Tân, Tay Ho Ward, Hà Nội, 11214, Vietnam"
+  },
+  "16 Phạm Hùng, Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 21.0300406,
+    "lon": 105.7786324,
+    "display": "Sunshine Center, 16, Pham Hung Road, Dich Vong So, Tu Liem Ward, Hà Nội, 10051, Vietnam"
+  },
+  "13 Lĩnh Nam, Hoàng Mai, Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 20.9812458,
+    "lon": 105.8790417,
+    "display": "Chung cư 282 Lĩnh Nam, Hoàng Mai, Hoang Mai Ward, Hà Nội, 11720, Vietnam"
+  },
+  "27 Lạc Trung, Vĩnh Tuy, Hai Bà Trưng, Hà Nội, Vietnam, Ha Noi City, Vietnam": null,
+  "23 Quan Nhân, Nhân Chính, Thanh Xuân, Hà Nội, Vietnam, Ha Noi City, Vietnam": null,
+  "352 Giải Phóng, Phương Liệt, Thanh Xuân, Hà Nội, Vietnam, Ha Noi City, Vietnam": null,
+  "285 Lĩnh Nam, Vĩnh Hưng, Hoàng Mai, Hà Nội 100000, Vietnam, Ha Noi City, Vietnam": null,
+  "2V29+V95, Vĩnh Tuy, Hai Bà Trưng, Hà Nội, Vietnam, Ha Noi City, Vietnam": null,
+  "306 Đ. Hồ Tùng Mậu, Cầu Diễn, Bắc Từ Liêm, Hà Nội, Vietnam, Ha Noi City, Vietnam": null,
+  "Quốc Lộ 7, Xã Văn Sơn, Huyện Đô Lương, Tỉnh Nghệ An, Nghe An Province, Vietnam": null,
+  "Nghe An Province, Vietnam": {
+    "lat": 19.1976001,
+    "lon": 105.060676,
+    "display": "Nghệ An Province, Vietnam"
+  },
+  "Tổ dân phố Phú Vinh Tây, Thị Trấn Bút Sơn, Huyện Hoằng Hóa, Thanh Hoa Province, Vietnam": null,
+  "Số 68, Đường 10/6, Thị Trấn Quán Lào, Huyện Yên Định, Tỉnh Thanh Hóa, Thanh Hoa Province, Vietnam": null,
+  "Chân cầu De, xã Minh Lộc, xã Hưng Lộc, huyện Hậu Lôc tỉnh Thanh Hóa., Thanh Hoa Province, Vietnam": null,
+  "Quốc Lộ 45, Thị Trấn Thiệu Hóa - Huyện Thiệu Hóa - Tỉnh Thanh Hóa, Thanh Hoa Province, Vietnam": null,
+  "Ngã năm Quốc lộ 39A, Thị Trấn Yên Mỹ, Huyện Yên Mỹ, Tỉnh Hưng Yên, Hung Yen Province, Vietnam": null,
+  "Thị Trấn Triệu Sơn, Huyện Triệu Sơn, Tỉnh Thanh Hoá, Thanh Hoa Province, Vietnam": null,
+  "Khu 3 Đường Lam Sơn, thị trấn Thọ Xuân, huyện Thọ Xuân tỉnh Thanh Hóa., Thanh Hoa Province, Vietnam": null,
+  "Tầng 2 TTTM Vincom Plaza Sơn La, Tổ 3, Sơn La, Vietnam, Son La Province, Vietnam": null,
+  "Son La Province, Vietnam": {
+    "lat": 21.2276769,
+    "lon": 104.1575944,
+    "display": "Sơn La Province, Vietnam"
+  },
+  "TTTM Vincom Hà Nam, Phường Minh Khai, Thành phố Phủ Lý, Tỉnh Hà Nam, Ha Nam Province, Vietnam": null,
+  "Tầng 1, 2, 3, 4 tổ hợp nhà ở đa năng 28 tầng Làng Quốc tế Thăng Long, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội, Ha Noi City, Vietnam": null,
+  "281 Đội Cấn, Liễu Giai, Ba Đình, Hà Nội, Ha Noi City, Vietnam": {
+    "lat": 21.0355367,
+    "lon": 105.8177175,
+    "display": "BIDV, 258;220, Doi Can Street, Lieu Giai, Ngoc Ha Ward, Hà Nội, 11119, Vietnam"
+  },
+  "Tầng B1, TTTM Vincom Center Liễu Giai, Số 29 Liễu Giai, P. Ngọc Khánh, Q. Ba Đình, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 1, Tòa nhà Trung Yên 1, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 4 TTTM Vincom Bà Triệu, 191 Bà Triệu, P. Lê Đại Hành, Q. Hai Bà Trưng, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tòa nhà A1, Khu đô thị Vinhomes Gardenia, đường Hàm Nghi, Phường Cầu Diễn, Quận Nam Từ Liêm, Thành Phố Hà Nội, Ha Noi City, Vietnam": null,
+  "Số 188 Phố Tây Sơn, Thị Trấn Phùng, Huyện Đan Phượng, Thành Phố Hà Nội, Ha Noi City, Vietnam": null,
+  "TTTM Vincom Bắc Ninh,đường Trần Hưng Đạo P. Suối Hoa,TP Bắc Ninh., Bac Ninh Province, Vietnam": null,
+  "TTTM Vincom Nguyễn Chí Thanh, Sô 54A Nguyễn Chí Thanh, Phường Láng Thượng, Quận Đống Đa, Hà Nội, Ha Noi City, Vietnam": null,
+  "T 1, Toà 170 La Thành, P. Ô Chợ Dừa, Q. Đống Đa, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tràng An Complex, Số 1 Phùng Chí Kiên, Nghĩa Đô, Cầu Giấy, Hà Nội, Ha Noi City, Vietnam": null,
+  "Hầm B2, khu TTTM, tổ hợp Trung tâm thương mại, giáo dục và căn hộ Royal City, số 72 Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội, Ha Noi City, Vietnam": null,
+  "46 Thanh Nhàn, Hai Bà Trưng, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng hầm B1 - TTTM Vincom Bắc Từ Liêm. Số 234 Phạm Văn Đồng, P. Cổ Nhuế 1, Quận Bắc Từ Liêm, Thành Phố Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 1, 2,3 tòa nhà CT1A –CT1B, khu đô thị Xa La, phường Phúc La, quận Hà Đông, thành phố Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 1,2,3 tòa nhà CT1A Khu Đô Thị Tân Tây Đô, Xã Tân Lập, Huyện Đan Phượng, TP Hà Nội, Ha Noi City, Vietnam": null,
+  "Trung tâm thương mại Center Long Biên, Phường Việt Hưng, Quận Long Biên, Thành Phố Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng B1, tổ hợp Trung Tâm thương mại, Giáo Dục và Căn hộ Times City, 458 đường Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành Phố Hà Nội, Ha Noi City, Vietnam": null,
+  "Nhà CT7A Khu đô thị mới Văn Quán, Yên Phúc, Phúc La, Hà Đông, Hà Nội, Ha Noi City, Vietnam": null,
+  "Số 3 Lương Yên, Phường Bạch Đằng, Quận Hai Bà Trưng, TP. Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 1&2, Tòa nhà Skypark, số 2 Tôn Thất Thuyết, phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành Phố Hà Nội, Ha Noi City, Vietnam": null,
+  "TTTM Vincom Hà Tĩnh, góc ngã tư, Đường Hà Huy Tập, Phường Hà Huy Tập, thành phố Hà Tĩnh, tỉnh Hà Tĩnh., Ha Tinh Province, Vietnam": null,
+  "Ha Tinh Province, Vietnam": {
+    "lat": 18.3504832,
+    "lon": 105.7623047,
+    "display": "Hà Tĩnh Province, Vietnam"
+  },
+  "TTTM Vincom Lê Thánh Tông, số 5 Đường Lê Thánh Tông, Phường Máy Tơ, Quận Ngô Quyền, Thành phố Hải Phòng, Việt Nam, Hai Phong City, Vietnam": null,
+  "Đường Điện Biên Phủ, Tổ 9, Phường Tân Phong, Thành phố Lai Châu, Tỉnh Lai Châu, Lai Chau Province, Vietnam": {
+    "lat": 22.3843885,
+    "lon": 103.4736305,
+    "display": "Dien Bien Phu Road, Tổ 25, Tân Phong, Lai Châu, Phường Tân Phong, Lai Châu Province, Vietnam"
+  },
+  "Chung cư CT1, Khu nhà ở di dân Ao Hoàng Cầu, Ao Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, TP Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng Hầm B1 - TTTM Vincom Phạm Ngọc Thạch, Số 2 Phạm Ngọc Thạch, Phường Trung Tự, Quận Đống Đa,  Thành Phố Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng hầm B1, dự án nhà ở hỗ hợp cao tầng, lô N05, Khu đô thị Đông Nam Trần Duy Hưng, Phường Trung Hòa, Quận Cầu Giấy, Thành Phố Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng B1-Lô A, Tòa nhà Sun Plaza Thụy Khuê, Số nhà 69B đường Thụy Khuê, P. Thụy Khuê, Q. Tây Hồ, TP. Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 1, tòa CT2, Khu đô thị Gamuda Gardens, Phường Trần Phú, Quận Hoàng Mai, Thành Phố Hà Nội, Ha Noi City, Vietnam": null,
+  "WinMart Kỳ Anh - Vincom+ Kỳ Anh, Tổ dân phố 1, Phường Sông Trí, Thị Xã Kỳ Anh, Tỉnh Hà Tĩnh., Ha Tinh Province, Vietnam": null,
+  "TTTM Vincom+ Chí Linh, khu dân cư Nguyễn Trãi 1, P.Sao Đỏ, Thành phố  Chí Linh, tỉnh Hải Dương, Hai Duong Province, Vietnam": null,
+  "Tầng 2, TTTM Vincom Imperia Hải Phòng, P. Thượng Lý, Q. Hồng Bàng, TP. Hải Phòng, Hai Phong City, Vietnam": null,
+  "TTTM Vincom Lạng Sơn, cầu Kỳ Lừa, phường Chi Lăng, thành phố Lạng Sơn., Lang Son Province, Vietnam": null,
+  "Lang Son Province, Vietnam": {
+    "lat": 21.8487579,
+    "lon": 106.6140692,
+    "display": "Lạng Sơn Province, Vietnam"
+  },
+  "TTTM Vincom+ Thái Hòa, Khối 8, Phường Long Sơn, Thị xã Thái Hòa, Tỉnh Nghệ An, Nghe An Province, Vietnam": null,
+  "Tầng 2, TTTM Vincom Việt Trì plaza, số 2 đường Hùng Vương, Phường Tiên Cát, Thành Phố Việt Trì, Tỉnh Phú Thọ, Phu Tho Province, Vietnam": null,
+  "TTTM Đồng Hới, đường Quách Xuân Kỳ, P. Hải Đình, Tp. Đồng Hới, T. Quảng Bình, Quang Binh Province, Vietnam": null,
+  "Tầng 2, TTTM Vincom Plaza Móng Cái, phường Trần Phú, TP. Móng cái, Tỉnh Quảng ninh, Quang Ninh Province, Vietnam": null,
+  "TTTM Vincom Thái Nguyên, Đường Lương Ngọc Quyến, Phường Quang Trung, Thành phố Thái Nguyên, Tỉnh Thái Nguyên, Thai Nguyen Province, Vietnam": null,
+  "Số 27 đường Trần Phú, Phường Điện Biên, TP Thanh Hóa, Thanh Hoa Province, Vietnam": null,
+  "TTTM Vincom Yên Bái, đường Thành Công, Phường Nguyễn Thái Học, Thành phố Yên Bái, Tỉnh Yên Bái., Yen Bai Province, Vietnam": null,
+  "Yen Bai Province, Vietnam": {
+    "lat": 21.8091042,
+    "lon": 104.5182832,
+    "display": "Yên Bái Province, Lào Cai Province, Vietnam"
+  },
+  "15-17 Cộng Hòa, P.4, Q.Tân Bình, Ho Chi Minh City, Vietnam": null,
+  "Vincom+ Nam Đàn Xã Vân Diên,Huyện Nam Đàn,tỉnh Nghệ An, Nghe An Province, Vietnam": null,
+  "Số nhà 848, đường Trần Hưng Đạo, phường Tân Thành, Thành phố Ninh Bình, Tỉnh Ninh Bình, Ninh Binh Province, Vietnam": null,
+  "TTTM Vincom+Phú Thọ, phường Hùng Vương, thị xã Phú Thọ, tỉnh Phú Thọ, Phu Tho Province, Vietnam": null,
+  "Vincom+ Uông Bí, Khu đô thị Yên Thanh, Phường Yên Thanh, Thành phố Uông Bí, tỉnh Quảng Ninh., Quang Ninh Province, Vietnam": null,
+  "Số 460 phố Lý Bôn, Phường Đề Thám, Thành phố Thái Bình, tỉnh Thái Bình, Việt Nam, Thai Binh Province, Vietnam": null,
+  "Thai Binh Province, Vietnam": {
+    "lat": 20.4031348,
+    "lon": 106.5941615,
+    "display": "Thái Bình Province, Hưng Yên Province, Vietnam"
+  },
+  "Tầng 1, Vincom+ Tĩnh Gia, Thôn Nam Yến, Xã Hải Yến, Huyện Tĩnh Gia, Tỉnh Thanh Hóa, Việt Nam, Thanh Hoa Province, Vietnam": null,
+  "Tầng 2, TTTM Vincom Tuyên Quang, số 260 đường Quang Trung, Phường Phan Thiết, Thành phố Tuyên Quang, Tỉnh Tuyên Quang, Tuyen Quang Province, Vietnam": null,
+  "Tuyen Quang Province, Vietnam": {
+    "lat": 22.3382057,
+    "lon": 105.0715846,
+    "display": "Tuyên Quang Province, Vietnam"
+  },
+  "3-3C Ba Tháng Hai, P11, Q.10, Ho Chi Minh City, Vietnam": null,
+  "10 Phổ Quang, phường 2, quận Tân Bình, Ho Chi Minh City, Vietnam": null,
+  "36/25 Phạm Văn Nghị, Sky Garden 3, P. Tân Phong, Q.7, Ho Chi Minh City, Vietnam": null,
+  "Tầng B2 , Tòa nhà T4 BRILLIANT – DIAMOND ISLAND. Số 1 , Đường số 104 – BTT , Khu Phố 3 , P.Bình Trưng Tây Quận 2 , HCM, Ho Chi Minh City, Vietnam": null,
+  "Số 71, Đường Trần Trọng Cung , KĐT Nam Long Phường Tân Thuận Đông, Quận 7, Ho Chi Minh City, Vietnam": null,
+  "307 Nguyễn Duy Trinh,Phường Bình Trưng Tây,Quận 2 ,Thành Phố Hồ Chí Minh, Ho Chi Minh City, Vietnam": null,
+  "190 đường Quang Trung, Phường 10, Gò Vấp, Ho Chi Minh City, Vietnam": null,
+  "52 Tăng Bạt Hổ, P. Lê Lợi, TP Quy Nhơn, tỉnh Bình Định, Binh Dinh Province, Vietnam": null,
+  "Số 50A Hùng Vương, Phường Phú Nhuận, Thành phố Huế, tỉnh Thừa Thiên Huế, Thua Thien Hue Province, Vietnam": null,
+  "Số 2067 Đại lộ Hùng Vương, Phường Cam Thuận, Thành Phố Cam Ranh, Tỉnh Khánh Hòa, Khanh Hoa Province, Vietnam": null,
+  "Số 78-80 Trần Phú, Phường Lộc Thọ, Thành phố Nha Trang, Tỉnh Khánh Hòa, Khanh Hoa Province, Vietnam": null,
+  "Tầng 2, TTTM Kon Tum, Đường Trần Hưng Đạo, Phường Quyết Thắng, TP Kon Tum, tỉnh Kon Tum, Kon Tum Province, Vietnam": null,
+  "Số 122 đường 16/4 P. Mỹ Hải, Tp. Phan Rang - Tháp Chàm, tỉnh Ninh Thuận, Ninh Thuan Province, Vietnam": null,
+  "TTTM Vincom Plaza Quảng Ngãi, số 26 đường Lê Thánh Tôn, Phường Nghĩa Chánh, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi, Quang Ngai Province, Vietnam": null,
+  "Chợ Mỹ Phước 1, KCN Mỹ Phước 1, Bến Cát, Bình Dương, Binh Duong Province, Vietnam": null,
+  "231 Nguyễn Thị Định, P.Bình Trưng Tây, Q.2, Ho Chi Minh City, Vietnam": null,
+  "Lầu 2, Vincom Plaza Gò Vấp, 12 Phan Văn Trị , TP HCM, Ho Chi Minh City, Vietnam": null,
+  "TTTM Vincom Đà Nẵng, Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Thành phố Đà Nẵng, Da Nang City, Vietnam": null,
+  "Số 60 Thái Nguyên, P. Phương Sài, Tp. Nha Trang, tỉnh Khánh Hòa, Khanh Hoa Province, Vietnam": null,
+  "44-46 Lê Thánh Tôn, Phường Lộc Thọ, Thành phố Nha Trang, Tỉnh Khánh Hòa, Khanh Hoa Province, Vietnam": null,
+  "Đường 2/4, phường Ninh Hiệp, TX Ninh Hòa, tỉnh Khánh Hòa, Khanh Hoa Province, Vietnam": null,
+  "83 Lê Hồng Phong, Phường 1, Thành phố Bảo Lộc, tỉnh Lâm Đồng, Lam Dong Province, Vietnam": null,
+  "Góc Đông Bắc ngã tư đường Hùng Vương và đường Trần Phú, Phường 7, TP Tuy Hòa, Tỉnh Phú Yên, Phu Yen Province, Vietnam": null,
+  "Tầng 2, TTTM Vincom Plaza Cẩm Phả, phường Cẩm Bình, thành phố Cẩm Phả, tỉnh Quảng Ninh, Quang Ninh Province, Vietnam": null,
+  "Lầu 02, Vicom Biên Hòa, 1096 Phạm Văn Thuận KP2, P.Tân Mai, Biên Hòa, Đồng Nai., Dong Nai Province, Vietnam": null,
+  "Tầng 2, Vincom Plaza Tây Ninh, Số 444, đường 30/4, KP1, P3, Tây Ninh, Tay Ninh Province, Vietnam": null,
+  "TT Thương Mại Bạc Liêu, F3, thị xã Bạc Liêu, Bac Lieu Province, Vietnam": null,
+  "42 đường 30/4, An Phú, Ninh kiều, Can Tho City, Vietnam": null,
+  "Số 209 đường 30/4 Phường Xuân Khánh , Quận Ninh Kiều , Thành Phố Cần Thơ, Can Tho City, Vietnam": {
+    "lat": 10.0208072,
+    "lon": 105.7703585,
+    "display": "Trường trung học cơ sở Lương Thế Vinh, số 341 đường 30/4 phường xuân khánh quận ninh kiều thành phố cần thơ, Phường Tân An, Cần Thơ, 94000, Vietnam"
+  },
+  "Số 2;Tổ 3; Khóm 1,F.1; Đường 30/4,Thành Phố Cao Lãnh, Tỉnh Đồng Tháp, Dong Thap Province, Vietnam": null,
+  "Vincom Kiên Giang, Lô A12, khu phố 1, p. Vĩnh Bảo, TP Rạch Giá, tỉnh Kiên Giang, Kien Giang Province, Vietnam": null,
+  "Tầng 2, TTTM Vincom Plaza Sóc Trăng, Đường Trần Hưng Đạo, P. 2, TP. Sóc Trăng, Tỉnh Sóc Trăng, Soc Trang Province, Vietnam": null,
+  "Tầng 3, TTTM Vincom Plaza Vĩnh Long , 55 đường Phạm Thái Bường, Phường 4, TP Vĩnh Long, Vinh Long Province, Vietnam": null,
+  "163A Đại La, Phường Đồng Tâm, quận Hai Bà Trưng, Hà Nội, Ha Noi City, Vietnam": null,
+  "51 Xuân Diệu, Phường Quảng An, Quận Tây Hồ, Thành phố Hà Nội, Ha Noi City, Vietnam": null,
+  "Số 8 Quang Trung, P. Quang Trung, Q. Hà Đông, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 1 nhà 17T1, 17T2 số 1 Nguyễn Huy Tưởng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 1, Tòa HH1 - Meco Complex- 102 Trường Chinh- P. Phương Mai- Q. Đống Đa, Hà Nội., Ha Noi City, Vietnam": null,
+  "19 Trúc Khê, Phường Láng Hạ, Quận Đống Đa, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 1, Tòa Bắc Rice City Linh Đàm, CT4, KĐT mới Tây Nam Linh Đàm, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 1, TTTM Vincom Plaza SkyLake, Khu đô thị mới Cầu Giấy, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội, Ha Noi City, Vietnam": null,
+  "Nhà F, ngõ 28 Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 2, TTTM Vincom Plaza Hòa Bình, phường Đồng Tiến, TP Hòa Bình, Tỉnh Hòa Bình., Hoa Binh Province, Vietnam": null,
+  "Hoa Binh Province, Vietnam": {
+    "lat": 20.7090533,
+    "lon": 105.2576439,
+    "display": "Hòa Bình Province, Phú Thọ Province, Vietnam"
+  },
+  "Số 78 Lý Thường Kiệt , Phường Thăng Lợi, TP Buôn Ma Thuột, tỉnh Đắk Lắk, Dak Lak Province, Vietnam": null,
+  "TTTM Vincom+ Long Thành, 251 khu Phước Hải,  đường Lê Duẩn, thị trấn Long Thành, tỉnh Đồng Nai, Dong Nai Province, Vietnam": null,
+  "Lầu 2, Vincom An  Giang, Đường Trần Hưng Đạo, Phường Mỹ Bình, TP.Long Xuyên, tỉnh An Giang, An Giang Province, Vietnam": null,
+  "TTTM Vincom Plaza Cà Mau - Phường 1 - Thành phố Cà Mau - Cà Mau, Ca Mau Province, Vietnam": null,
+  "2 Hùng Vương – Phường Thới Bình – Quận Ninh Kiều, Can Tho City, Vietnam": null,
+  "Đường Nguyễn Tất Thành, Khu phố 4, phường 1, TP Sa Đéc, Đồng Tháp, Dong Thap Province, Vietnam": null,
+  "Tầng L2, TTTM Vincom Plaza Hậu Giang, Khu vực 3, Phường 5, TP. Vị Thanh, Tỉnh Hậu Giang, Hau Giang Province, Vietnam": null,
+  "Ngã tư Hùng Vương và Mai Thị Tốt, Phường 2, Thành phố Tân An, tỉnh Long An, Long An Province, Vietnam": null,
+  "TTTM Vincom Plaza Trà Vinh, Khóm 3, phường 2, Thành Phố Trà Vinh, Tỉnh Trà Vinh, Tra Vinh Province, Vietnam": null,
+  "98 Thái Thịnh, Phường Ngã Tư Sở, Quận Đống Đa, Thành Phố Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 2 và 3, TTTM Vincom Bắc Kạn, đường Trường Chinh, Phường Đức Xuân, Thành phố Bắc Kạn, Tỉnh Bắc Kạn, Bac Kan Province, Vietnam": null,
+  "Bac Kan Province, Vietnam": {
+    "lat": 22.2728552,
+    "lon": 105.8564601,
+    "display": "Bắc Kạn Province, Thái Nguyên Province, 23000, Vietnam"
+  },
+  "TTTM Pleiku, Phường Diên Hồng, TP. Pleiku, Tỉnh Gia Lai, Gia Lai Province, Vietnam": null,
+  "Tầng 1, Lô CT4, TTTM Thiên Sơn Plaza, 89 Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội, Ha Noi City, Vietnam": null,
+  "131 Nguyễn Văn Cừ, Phường Ngọc Lâm, Quận Long Biên, Hà Nội, Ha Noi City, Vietnam": null,
+  "Lô E, Khu đất D1,tòa nhà hỗn hợp Vườn Đào, P. Phú Thượng, Q. Tây Hồ, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tòa nhà Nam Đô Complex, 609 Trương Định, Phường Thịnh Liệt, Quận Hoàng Mai, Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng 2, TTTM Vincom Center Trần duy Hưng, đường Trần Duy Hưng, Trung Hòa, Cầu Giấy, Hà Nội., Ha Noi City, Vietnam": null,
+  "Tầng 2 và Tầng 3, TTTM Vincom Mega Mall Ocean Park, Ô đất CCTP-10 thuộc Dự án KĐT Gia Lâm, thị trấn Trâu Quỳ và các xã Dương Xá, xã Kiêu Kỵ, xã Đa Tốn, Huyện Gia Lâm, TP. Hà Nội, Ha Noi City, Vietnam": null,
+  "Tầng trệt Cao ốc  Silland, số nhà 7J, đường số 9A, Khu dân cư Trung Sơn, ấp 4B, xã Bình Hưng, huyện Bình Chánh, Ho Chi Minh City, Vietnam": null,
+  "Số 1579,Khu Phố Thống Nhất,Phường Dĩ An,Thị Xã Dĩ An,Tỉnh Bình Dương, Binh Duong Province, Vietnam": null,
+  "27 Lý Thái Tổ, Phường Lý Thái Tổ, Quận Hoàn Kiếm, Hà Nội, Ha Noi City, Vietnam": null
+}

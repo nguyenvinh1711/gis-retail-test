@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# gis-retail
 
-## Getting Started
+Multi-tenant GIS SaaS demo MVP. See [`docs/PLAN.md`](docs/PLAN.md) for the full product plan.
 
-First, run the development server:
+## What's in this demo
+
+- **Public layers**: Vietnam province boundaries, 377 sample supermarket locations.
+- **Premium layer**: supermarket density heatmap — locked behind a mock per-tenant entitlement.
+- **Mock auth**: cookie-based sign-in (no real backend yet).
+- **Dashboard**: per-tenant view to "buy" / refund the premium layer.
+- **Base map switcher**: MapTiler (if API key set) or OpenFreeMap; toggle live in the UI.
+
+## Run it
 
 ```bash
+npm install         # if not done already
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Optional: MapTiler key
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Create `.env.local`:
 
-## Learn More
+```
+NEXT_PUBLIC_MAPTILER_KEY=your_free_tier_key
+```
 
-To learn more about Next.js, take a look at the following resources:
+Without it, the app uses OpenFreeMap by default.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Regenerating demo data
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+node scripts/build-supermarkets-geojson.mjs
+```
 
-## Deploy on Vercel
+Reads `sample_datas/Supermarket.xlsx` and writes `public/data/supermarkets.geojson`.
+Because the source file has no lat/lng, the script approximates locations from city centroids
+with deterministic jitter. Replace with real geocoding for production.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Vietnam province boundaries (`public/data/vn-provinces.geojson`) come from geoBoundaries
+([ADM1 simplified](https://www.geoboundaries.org/)) and are already checked in.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Layout
+
+```
+src/
+  app/
+    page.tsx             landing
+    map/page.tsx         map demo
+    signin/page.tsx      mock sign-in
+    dashboard/page.tsx   tenant dashboard
+    actions.ts           server actions (signin, buy, refund)
+  components/
+    Navbar.tsx
+    MapView.tsx          MapLibre client + layer panel
+  lib/
+    auth.ts              cookie-based session helpers
+    layers.ts            static layer catalog
+    basemap.ts           base map style URLs
+public/data/             GeoJSON sources
+sample_datas/            raw inputs (xlsx)
+scripts/                 one-off data prep
+docs/PLAN.md             product plan
+```
+
+## Next steps (from the plan)
+
+Real PostGIS, Martin tile server, Stripe billing, multi-tenant RLS, file upload pipeline — see `docs/PLAN.md`.
